@@ -1,0 +1,8 @@
+
+testShowNewUserForm=true
+testShowPlaceOrderForm=true
+testAddNewUser=false
+testShowProducts=false
+testShowKitDetails=false
+testSaveOrder=false
+testShowOrderSummary=false
